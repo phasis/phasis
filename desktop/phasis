@@ -1,0 +1,4 @@
+#! /bin/sh
+#python phasis.py
+cd /opt/phasis
+./phasis.py

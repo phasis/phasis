@@ -1,0 +1,81 @@
+
+  Gestionale Aziendale Open Source Phasis (R)
+
+  ATTENZIONE
+  Questi script sono stati testati approfonditamente,
+  comunque e` consigliabile custodire tutti i dati anche
+  in cartaceo e fare frequenti backup del database.
+
+
+  ORGANIZZAZIONE DIRECTORY
+
+  |----> phasis                 -- Directory moduli dell'applicativo
+  |----> data
+  |         |----> az001        -- Database archivi
+  |         `----> dbAz         -- Database aziende 
+  |----> images                 -- Directory immagini dell'applicativo
+  |----> spool                  -- Directory di spool dell'applicativo
+  |----> tmp                    -- Directory file temporanei dell'applicativo
+  |----> logs                   -- Directory logs dell'applicativo 
+  |----> AUTHORS                -- dati dell'autore
+  |----> LICENSE                -- file della licenza dell'applicativo Phasis
+  |----> COPYING                -- file della licenza GPL v2
+  |----> README                 -- questo file
+  |----> default.cfg            -- file di configurazione
+  |
+  `----> phasis.py              -- file per eseguire l'applicativo
+
+ 
+  REQUISITI
+  -Python (>=2.4) con estensione SQLite
+  -Python Imaging Library (PIL 1.1.4)
+  -wxPython (>=2.6 per Python 2.4)
+  -SQLite (>=SQLite 3.x)
+  -ReportLab 1.19
+
+  INSTALLAZIONE 
+  1 -Installare Python (>=2.4) selezionando solo la voce
+     " Python interpreter and libraries " le altre voci 
+     devono essere deselezionate.
+  2 -Installare Python Imaging Library (PIL 1.1.4)
+  3 -Installare wxPython (>=2.6 per Python 2.4) scegliere
+     la voce " Compact Instalation" tutte le voci devono essere 
+     deselezionate tranne " wxPython modules and library "
+  4 -Installare Pysqlite (>=1.2.0 per Python 2.4)
+  5 -Installare (>=SQLite 3.0) 
+  6 -Installare ReportLab 1.19
+  7 -Installazione di phasis-0.x.x
+
+
+  Phasis  no installer
+
+  Questa soluzione e` stata creata per fare funzionare Phasis senza 
+  che sia necessario installare i pacchetti Python, Python Imaging Library, 
+  wxPython, SQLite e ReportLab.
+
+  * Linux phasis-0.x.x-lnx.tar.gz.
+   
+  dopo la decompressione della distribuzione in formato Tar package portarsi 
+  prima nella directory della distribuzione per poi avviare l'applicativo :
+
+  $ cd phasis-0.x.x 
+  $ ./phasis.sh
+
+  
+  * Window phasis-0.x.x-win32.zip
+      Scegliere Esegui dal menu Start, quindi digitare il comando.
+
+  c:\phasis-0.x.x\phasis.win.exe 
+
+  c:\phasis-0.x.x\phasis.win-console.exe (versione console)
+
+
+  AGGIORNAMETO DA VERSIONI PRECEDENTI
+  Prima di aggiornare e` opportuno fare un backup del
+  database, esiste  la possibilita` di PERDITA DI TUTTI I DATI!
+
+
+  AUTORE
+  Massimo Gerardi
+  Web : http://www.gnumangu.com
+  E-Mail: gnumagnu@gmail.com
