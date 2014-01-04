@@ -1,31 +1,51 @@
 #!/usr/bin/env python
+# -*- coding: iso-8859-1 -*-
 #
-# Project       Phasis
+#  Copyright (C) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 
+#                2008, 2009, 2010, 2011, 2012, 2013
+#                2014 Massimo Gerardi all rights reserved.
 #
-# Description
-# Gestionale Aziendale Open Source Phasis (R)
+#  Author: Massimo Gerardi massimo@gerardi.mobi
 #
-#*  Copyright (C) 2003 - 2007  Phasis - http://www.phasis.it/
-#   Author: Massimo Gerardi <m.gerardi@mgsoft.it>
-#   Via Michele Rosi 184 - Aranova (RM)
-#   00050 Aranova (Roma) - Italy
-#   tel. +39 06 6674756 - fax +39 06 6674756
+#  Copyright (c) 2013 Qsistemi.com.  All rights reserved.
 #
-#   This program is free software; you can redistribute it and/or modify
-#   it under the terms of the GNU General Public License as published by
-#   the Free Software Foundation; either version 2 of the License, or
-#   (at your option) any later version.
+#  Via Michele Rosi 184 - Aranova (Roma)
+#  00050 Aranova (Roma) - Italy
+#  Numero Telefono: +39 06 99.344.718
+#  Numero Fax: +39 06 99.334.718
 #
-#   This program is distributed in the hope that it will be useful,
-#   but WITHOUT ANY WARRANTY; without even the implied warranty of
-#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#   GNU General Public License for more details.
+#  Si veda file COPYING per le condizioni di software.
 #
-#   You should have received a copy of the GNU General Public License
-#   along with this program; if not, write to the Free Software
-#   Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+#   www.qsistemi.com - info@qsistemi.com
 #
-#   www.phasis.it - info@phasis.it 
+
+#
+#  COPYRIGHT
+#  I diritti e i copyright relativi a Qsistemi, la documentazione 
+#  elettronica e l'eventuale materiale stampato accluso e 
+#  qualsiasi copia del Prodotto Software sono di proprieta' del 
+#  Produttore. Il titolo e i diritti sulla proprieta' intellettuale
+#  relativi a contenuti cui l'Utilizzatore puo' accedere mediante 
+#  l'utilizzo di Qsistemi sono di proprieta' dei rispettivi titolari 
+#  e possono essere tutelati dal copyright o da altre leggi e 
+#  trattati sulla proprieta' intellettuale.
+#
+#  LIMITAZIONE DELLA RESPONSABILITA'
+#  Il software e' fornito "COSI' COM'E'", senza garanzie di ogni sorta.
+#  Il Produttore, ed i propri rivenditori o distributori non riconoscono 
+#  alcuna garanzia, espressa o implicita, di idoneità del software ad un 
+#  fine particolare. 
+#  SONO ESCLUSE QUALSIASI RESPONSABILITA' E RIMBORSO DANNI PER PERDITA DI 
+#  INFORMAZIONI GESTITE DAL SOFTWARE E/O DA ELABORAZIONI E/O CALCOLI 
+#  EFFETTUATI IN MODO IRREGOLARE.
+#  IN NESSUN CASO IL PRODUTTORE, I SUOI RIVENDITORI O DISTRIBUTORI, POSSONO 
+#  VENIR RITENUTI RESPONSABILI PER LA PERDITA DI PROFITTO O QUALSIASI ALTRA 
+#  CONSEGUENZA, SPECIALE, INDIRETTA, INCIDENTALE, PUNITIVA O ALTRI DANNI CHE 
+#  POTESSERO INTERVENIRE CON L'USO DEL PRODOTTO.
+#
+#  Si veda file COPYING per le condizioni di software.
+#
+#   www.qsistemi.com - info@qsistemi.com
 #
 
 import encodings.utf_8 ########da aggiunfere per la 0.9.7-7
