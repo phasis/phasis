@@ -1,3 +1,4 @@
+
 # --------------------------------------------------------------------------- #
 # FLATNOTEBOOK Widget wxPython IMPLEMENTATION
 #
