@@ -1,0 +1,3 @@
+Phasis è un gestionale Open Source che adotta una tradizionale interfaccia grafica (GUI), disponibile per Linux, MacOSX e Windows. L'installazione è resa particolarmente semplice: un solo file di installazione che comprende tutto il necessario per l'esecuzione del programma.
+
+Dal punto di vista tecnologico, Phasis utilizza solo componenti Open Source. Il linguaggio di programmazione è Python, l'interfaccia grafica utilizzata è wxPython, il database è SQLite. Il software è compatibile anche con MySQL, PostgreSQL e PhoenixDB (ex InterBase).
