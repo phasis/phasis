@@ -2,8 +2,8 @@
 Version=1.0
 Encoding=UTF-8
 Name=Phasis
-GenericName=Gestionele
-Comment=Gestionale Open Osurce per l'azienda
+GenericName=Gestionale
+Comment=Gestionale Open Source per l'azienda
 TryExec=phasis
 Exec=phasis
 Icon=/usr/share/pixmaps/phasis.png
