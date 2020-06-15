@@ -1,12 +1,10 @@
 # -*- coding: iso-8859-1 -*-
 #
-#  Copyright (C) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 
-#                2008, 2009, 2010, 2011, 2012, 2013 
-#                2014 Massimo Gerardi all rights reserved.
+#  Copyright (C) 2001 - 2020 Massimo Gerardi all rights reserved.
 #
 #  Author: Massimo Gerardi massimo.gerardi@gmail.com
 #
-#  Copyright (c) 2013 Qsistemi.com.  All rights reserved.
+#  Copyright (c) 2020 Qsistemi.com.  All rights reserved.
 #
 #  Viale Giorgio Ribotta, 11 (Roma)
 #  00144 Roma (RM) - Italy
