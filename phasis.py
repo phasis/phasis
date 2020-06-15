@@ -5,7 +5,7 @@
 #
 #  Author: Massimo Gerardi massimo.gerardi@gmail.com
 #
-#  Copyright (c) 2013 Qsistemi.com.  All rights reserved.
+#  Copyright (c) 2030 Qsistemi.com.  All rights reserved.
 #
 #  Viale Giorgio Ribotta, 11 (Roma)
 #  00144 Roma (RM) - Italy
