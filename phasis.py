@@ -5,18 +5,18 @@
 #                2008, 2009, 2010, 2011, 2012, 2013
 #                2014 Massimo Gerardi all rights reserved.
 #
-#  Author: Massimo Gerardi massimo@gerardi.mobi
+#  Author: Massimo Gerardi massimo.gerardi@gmail.com
 #
 #  Copyright (c) 2013 Qsistemi.com.  All rights reserved.
 #
-#  Via Michele Rosi 184 - Aranova (Roma)
-#  00050 Aranova (Roma) - Italy
-#  Numero Telefono: +39 06 99.344.718
-#  Numero Fax: +39 06 99.334.718
+#  Viale Giorgio Ribotta, 11 (Roma)
+#  00144 Roma (RM) - Italy
+#  Phone: (+39) 06.87.163
+#  
 #
 #  Si veda file COPYING per le condizioni di software.
 #
-#   www.qsistemi.com - info@qsistemi.com
+#   www.qsistemi.com - italy@qsistemi.com
 #
 
 #
